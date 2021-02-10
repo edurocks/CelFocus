@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="now">It is now</string>
+    <string name="app_key">f98a159104d2171d1b5a6cdf32752d2e</string>
+    <string name="city_name">Porto</string>
+    <string name="units">metric</string>
+    <string name="chart_label">Temperature</string>
+</resources>
