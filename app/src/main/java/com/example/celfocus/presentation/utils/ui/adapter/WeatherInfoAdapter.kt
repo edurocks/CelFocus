@@ -3,7 +3,7 @@ package com.example.celfocus.presentation.utils.ui.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.example.celfocus.constants.Constants
+import com.example.celfocus.presentation.utils.constants.Constants
 import com.example.celfocus.databinding.WeatherInfoRowBinding
 import com.example.celfocus.data.model.Weather
 import com.example.celfocus.domain.entities.WeatherEntity

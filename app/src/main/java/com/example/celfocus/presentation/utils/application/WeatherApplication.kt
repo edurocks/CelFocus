@@ -1,4 +1,4 @@
-package com.example.celfocus.application
+package com.example.celfocus.presentation.utils.application
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp

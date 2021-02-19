@@ -1,4 +1,4 @@
-package com.example.celfocus.constants
+package com.example.celfocus.presentation.utils.constants
 
 class Constants {
 

@@ -11,7 +11,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.celfocus.R
-import com.example.celfocus.constants.Constants
+import com.example.celfocus.presentation.utils.constants.Constants
 import com.example.celfocus.data.repository.Resource
 import com.example.celfocus.databinding.FragmentWeatherBinding
 import com.example.celfocus.domain.entities.WeatherEntity
